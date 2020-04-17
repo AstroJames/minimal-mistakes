@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "Research"
+  - title: "Movies"
+  - title: "Images"
+  - title: "CV"
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
