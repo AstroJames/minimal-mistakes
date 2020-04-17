@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 title: " "
 ---
-<span font-size:4em>
+<span font-size:2em>
 
 ## About me
 Greetings. I am one of the two Deakin PhD and HDR (theoretical physics) scholars for 2020 at the Australian National University (ANU) in Australia. I spend most of my time at the Mt Stromlo Observatory in Canberra, where I am a first year PhD student. Associate Professor Christoph Federrath (ANU) is my primrary supervisor, and Professor Ralf Klessen (Heidelberg University), Dr Nicola Schneider (Colgone University) and Dr Philip Mocz (Princeton) are my associate supervisors.
