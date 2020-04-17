@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James R. Beattie"
+title                    : #"James R. Beattie"
 title_separator          : "-"
-subtitle                 : "PhD Candidate, Reseach School of Astronomy and Astrophyiscs, Australian National University"
+subtitle                 : #"PhD Candidate, Reseach School of Astronomy and Astrophyiscs, Australian National University"
 name                     : "James R. Beattie"
 description              : "James Beattie's Personal Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
