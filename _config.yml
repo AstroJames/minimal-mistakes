@@ -123,6 +123,10 @@ footer:
       url: "https://www.linkedin.com/in/jamesbeattiemathphysics"
       # url:
 
+header:
+  overlay_image: "/assets/images/background.png"
+  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
+  caption: "Colliding shocks using FLASH."
 
 # Reading Files
 include:
