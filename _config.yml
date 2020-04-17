@@ -124,8 +124,7 @@ footer:
       # url:
 
 header:
-  overlay_image: "/assets/images/background.png"
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
+  image: "/assets/images/background.png"
   caption: "Colliding shocks using FLASH."
 
 # Reading Files
