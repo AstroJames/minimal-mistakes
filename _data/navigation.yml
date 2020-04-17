@@ -4,6 +4,7 @@ main:
   - title: "Data"
   - title: "Movies"
   - title: "Images"
+  - title: "Publications"
   - title: "CV"
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
