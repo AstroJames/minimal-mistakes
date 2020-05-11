@@ -1,3 +1,9 @@
+---
+permalink: /publications/
+title: Research Projects
+---
+
+
 <html>
 <head>
 <meta charset="UTF-8">
