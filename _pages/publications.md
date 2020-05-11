@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-<html>
+<!-- <html>
 <head>
 <meta charset="UTF-8">
 <title>ADS query importer widget</title>
@@ -32,4 +32,4 @@ var ads_query_print_order = 'title|authors|journal|date|bibcode';
 <body>
 <div id="ads_query_importer_widget" style="width:800px;border:1px solid black;"></div>
 </body>
-</html>
+</html> -->
