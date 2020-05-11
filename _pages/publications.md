@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: Research Projects
+layout: default
 ---
 
 
