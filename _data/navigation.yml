@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Research"
-      url: https://astrojames.github.io/pages/research.html
+#      url: https://astrojames.github.io/pages/research.html
   - title: "Publications"
-      url: https://astrojames.github.io/pages/publications.html
+#      url: https://astrojames.github.io/pages/publications.html
   - title: "Images"
   - title: "Movies"
   - title: "CV"
